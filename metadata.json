@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan AI",
+  "description": "Scan. Know. Eat Smart. Real-time barcode scanning, Open Food Facts & USDA FoodData Central lookup, AI meal photo estimation, nutrition label OCR, and daily macro tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
